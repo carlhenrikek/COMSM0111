@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>COMSM0111/COMS30500 - Individual Project</title>
-    <description>This website was built completely using emacs org-mode based on the excellent work by Steve V. Miller</description>
+    <title>COMSM0111 Individual Project</title>
+    <description>This is the unit webpage for the 4th year individual project at the University of Bristol</description>
     <link>https://carlhenrikek.github.io/COMSM0111/</link>
     <atom:link href="https://carlhenrikek.github.io/COMSM0111/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 18 Jan 2018 10:47:15 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Jan 2018 10:47:15 +0000</lastBuildDate>
+    <pubDate>Fri, 02 Feb 2018 17:12:05 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Feb 2018 17:12:05 +0000</lastBuildDate>
     <generator>Jekyll v3.6.0</generator>
     
   </channel>
